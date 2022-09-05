@@ -17,7 +17,7 @@ Hello, I am a full-stack (Frontend and Backend) Developer who has special intere
 <br>🔸 Libraries/Frameworks: VueJS, Nuxt, Vuetify, NodeJS, Express, Sequelize, NestJS, Strapi, Laravel Livewire
 <br>🔸 Database: Elastic Search, Relational Database Design, Postgres/MySql
 <br>🔸 GIS: Tippocanoe, Tileserver-gl, geoserver.org, Mapbox, Mapbox GL JS, PostGIS, QGIS
-<br>🔸 Applications: VS Code, GitHub, Git BASH, Figma, Visual Studio, Jira, Trello
+<br>🔸 Applications: VS Code, GitHub, slack, pgadmin, insomnia, Figma, Visual Studio, Jira, Trello
 <br>🔸 Others: TailwindCSS, EC2, AWS Lamda Function, XMPP, AWS Amplify, RESTful API
 <p>
 
