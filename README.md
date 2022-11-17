@@ -21,12 +21,4 @@ Hello, I am a full-stack (Frontend and Backend) Developer who has special intere
 <br>🔸 Applications: VS Code, GitHub, slack, pgadmin, insomnia, Figma, Visual Studio, Jira, Trello
 <br>🔸 Others: TailwindCSS, EC2, AWS Lamda Function, XMPP, AWS Amplify, RESTful API
 <p>
-
-<summary><b>📊 Github Contribution Graph</b></summary>
-<p align="center"<a href="#"><img alt="Super Wizard Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dwweb0309&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
-<!-- </details>
-<details>    -->
- <summary><b>🏆 Github Achievements</b></summary>
-<p align="center"> <a href="https://github.com/jfu-resume"><img src="https://github-profile-trophy.vercel.app/?username=dwweb0309&margin-w=5&theme=radical" alt="dwweb0309" /></a> </p>
-
 <br>
