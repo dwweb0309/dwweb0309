@@ -3,12 +3,10 @@
 </h4>
 
 
-## Who am I ?
 <p>
-Hello, I am a full-stack (Frontend and Backend) Developer who has special interest in data visualization using VueJS. I am always open to new technologies, team player and open-minded.
+A full-stack developer with special interest in data visualization using VueJS. I am always open to new technologies, team player and open-minded.
 </p>
 
-<h2>Specialized in:</h2>
 <br>🔸 Languages: JavaScript, Python, PHP, Bootstrap, HTML5, CSS3, ES6, SASS
 <br>🔸 Libraries/Frameworks: VueJS, Nuxt, Vuetify, NodeJS, Express, Sequelize, NestJS, Strapi, Laravel, Livewire
 <br>🔸 Tech Stacks: MEVN, Laravel/Vue, TALL
