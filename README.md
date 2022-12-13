@@ -8,7 +8,7 @@ A full-stack developer with special interest in data visualization using VueJS. 
 </p>
 
 <br>🔸 Languages: JavaScript, Python, PHP, Bootstrap, HTML5, CSS3, ES6, SASS
-<br>🔸 Libraries/Frameworks: VueJS, Nuxt, Vuetify, NodeJS, Express, Sequelize, NestJS, Strapi, Laravel, Livewire
+<br>🔸 Libraries/Frameworks: VueJS, Nuxt, Vuetify, Quasar, Pinia, NodeJS, Express, Sequelize, NestJS, Strapi, Laravel, Livewire
 <br>🔸 Tech Stacks: MEVN, Laravel/Vue, TALL
 <br>🔸 Database: Elastic Search, Relational Database Design, Postgres/MySql
 <br>🔸 GIS: Tippocanoe, Tileserver-gl, geoserver.org, Mapbox, Mapbox GL JS, PostGIS, QGIS
