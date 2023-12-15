@@ -1,13 +1,13 @@
 <h4 align='center'>
-  Vue & FullStack Engineer 
+  FullStack Engineer 
 </h4>
 
 
 <p>
-A full-stack developer with special interest in data visualization using VueJS. I am always open to new technologies, team player and open-minded.
+A full-stack developer with special interest in data processing & visualization. I am always open to new technologies, team player and open-minded.
 </p>
 
-<br>🔸 Frontend: JavaScript, Bootstrap, HTML5, CSS3, ES6, SASS, TailwindCSS, Vue 3, Nuxt, Vuetify, Quasar, Pinia
+<br>🔸 Frontend: JavaScript, Bootstrap, HTML5, CSS3, ES6, SASS, TailwindCSS, Vue2/Vue3, Nuxt, Vuetify, Quasar, Pinia, React
 <br>🔸 Other libraries: D3.js, Mapbox GL JS
 <br>🔸 Backend: Python, PHP, Laravel, Node.js, Express, Sequelize
 <br>🔸 Database: Postgres/MySql, Elastic Search, MongoDB
