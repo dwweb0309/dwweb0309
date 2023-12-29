@@ -13,5 +13,5 @@ A full-stack developer with special interest in data processing & visualization.
 <br>🔸 Database: Postgres/MySql, Elastic Search, MongoDB
 <br>🔸 GIS: Tippocanoe, Tileserver-gl, geoserver.org, Mapbox Studio, Mapbox GL JS, PostGIS, QGIS
 <br>🔸 Applications: VS Code, GitHub, slack, pgadmin, Postman, Figma, Visual Studio, Jira, Trello
-<br>🔸 Others: Docker, Kubernetes, EC2, AWS Lamda Function, AWS Amplify
+<br>🔸 Others: Docker, EC2, Nginx, AWS Lamda Function, AWS Amplify
 
