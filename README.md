@@ -9,7 +9,7 @@ A full-stack developer with special interest in data processing & visualization.
 
 <br>🔸 Frontend: JavaScript, Bootstrap, HTML5, CSS3, ES6, SASS, TailwindCSS, Vue2/Vue3, Nuxt, Vuetify, Quasar, Pinia, React
 <br>🔸 Other libraries: D3.js, Mapbox GL JS
-<br>🔸 Backend: Python, PHP, Laravel, Node.js, Express, Sequelize
+<br>🔸 Backend: Python, PHP, Java, Node.js, Express, Sequelize
 <br>🔸 Database: Postgres/MySql, Elastic Search, MongoDB
 <br>🔸 GIS: Tippocanoe, Tileserver-gl, geoserver.org, Mapbox Studio, Mapbox GL JS, PostGIS, QGIS
 <br>🔸 Applications: VS Code, GitHub, slack, pgadmin, Postman, Figma, Visual Studio, Jira, Trello
